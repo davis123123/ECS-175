@@ -1,0 +1,90 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (proj3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(41,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(41,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(94,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(94,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(102,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(134,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(134,27): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(161,45): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(161,31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  curve.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\Source.cpp(162,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(14,21): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(26,21): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(35,21): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(44,21): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(77,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(77,14): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(99,15): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(99,15): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(99,15): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(99,15): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(99,15): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(100,15): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(100,15): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(100,15): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(100,15): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(100,15): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(102,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(113,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(128,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(131,15): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(131,15): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(131,15): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(131,15): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(131,15): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(132,16): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(132,16): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(132,16): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(132,16): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(132,16): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(147,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(154,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(166,28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(166,28): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(166,28): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(166,28): warning C4244:             _Ty=float
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(166,28): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(170,49): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(171,9): warning C4101: 'delta': unreferenced local variable
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(210,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(225,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(239,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(243,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(258,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(261,15): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(261,15): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(261,15): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(261,15): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(261,15): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(262,16): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(262,16): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(262,16): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(262,16): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(262,16): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(279,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(281,16): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(281,16): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(281,16): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(281,16): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(281,16): warning C4244:         ]
+  point.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(282,16): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(282,16): warning C4244:         with
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(282,16): warning C4244:         [
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(282,16): warning C4244:             _Ty=double
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\curve.cpp(282,16): warning C4244:         ]
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\point.cpp(5,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  util.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\point.cpp(9,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\util.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\proj3\util.cpp(234,20): warning C4018: '<': signed/unsigned mismatch
+  proj3.vcxproj -> C:\Users\Davis\Documents\UCD\ECS 175\Project4\proj3\Debug\proj4.exe

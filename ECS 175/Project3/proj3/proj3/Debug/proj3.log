@@ -1,0 +1,102 @@
+﻿  proj3.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(118,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(119,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(161,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(162,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(163,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(259,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(260,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(261,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(262,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(263,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(264,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(275,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(334,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(339,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(342,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(636,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(839,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(842,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(852,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(852,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(852,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(862,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(862,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(862,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(865,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(865,14): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(877,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(880,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(883,60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(890,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(892,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(894,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(896,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(919,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(919,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(919,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(926,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(926,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(926,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(933,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(933,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(933,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(940,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(940,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(940,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(946,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(946,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(946,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(949,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(949,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(955,1): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(966,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(968,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(970,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(972,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(995,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(995,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(995,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1002,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1002,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1002,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1009,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1009,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1009,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1016,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1016,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1016,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1022,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1022,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1022,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1025,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1025,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1031,1): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1112,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1133,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1135,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1137,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1145,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1147,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1149,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1157,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1159,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1161,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1165,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1164,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1163,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1309,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1313,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1315,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1316,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1317,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1318,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1376,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1403,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1406,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1421,17): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1421,14): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1457,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1468,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\proj3\proj3.cpp(1469,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  proj3.vcxproj -> C:\Users\Davis\Documents\UCD\ECS 175\Project3\proj3\Debug\proj3.exe

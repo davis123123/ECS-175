@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (proj3.vcxproj, proj4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\main.cpp(35,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\main.cpp(36,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\main.cpp(53,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\main.cpp(125,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\main.cpp(128,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  object.cpp
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\main.cpp(162,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\object.cpp(6,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\object.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\object.cpp(186,8): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\proj3\object.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+  proj3.vcxproj -> C:\Users\Davis\Documents\UCD\ECS 175\Project5\proj3\Debug\proj5.exe
